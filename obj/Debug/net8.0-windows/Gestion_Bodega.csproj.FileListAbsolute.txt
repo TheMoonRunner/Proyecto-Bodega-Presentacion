@@ -1,0 +1,17 @@
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Bodega.wfrm_ingresar_bodega.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Menu_Principal.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.csproj.GenerateResource.cache
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.AssemblyInfoInputs.cache
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.AssemblyInfo.cs
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.csproj.CoreCompileInputs.cache
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.csproj.AssemblyReference.cache
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Bodega.wfrm_Listar_bodegas.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Forms.Bodega.wfrm_modificar_bodega.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Forms.Materiales_Bodega_CContenedor.wfrm_Material_Bodega.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Forms.Materiales.wfrm_IngresarMateriales.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Forms.Materiales.wfrm_ListarMateriales.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Forms.Materiales.wfrm_ModificarMaterial.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Forms.Movimientos.wfrm_Movimientos_Listado.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Forms.Movimientos.wfrm_movimientos_modificar.resources
+C:\Users\chico\source\repos\Gestion_Bodega\obj\Debug\net8.0-windows\Gestion_Bodega.Forms.Tipo_Contenedor.wfrm_CTipoContenedor_Listar.resources

@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|c:\\users\\chico\\source\\repos\\gestion_bodega\\forms\\materiales\\wfrm_listarmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_listarmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales\\wfrm_ingresarmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_ingresarmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_listar_bodegas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_listar_bodegas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_ingresar_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_ingresar_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases\\cinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases\\cinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\movimientos\\wfrm_movimientos_modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\movimientos\\wfrm_movimientos_modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\movimientos\\wfrm_movimientos_modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\movimientos\\wfrm_movimientos_modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\movimientos\\wfrm_movimientos_listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\movimientos\\wfrm_movimientos_listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\menu principal\\menu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\menu principal\\menu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales\\wfrm_modificarmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_modificarmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales\\wfrm_modificarmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_modificarmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\tipo contenedor\\wfrm_ctipocontenedor_listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\tipo contenedor\\wfrm_ctipocontenedor_listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales bodega ccontenedor\\wfrm_material_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales bodega ccontenedor\\wfrm_material_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\tipo contenedor\\wfrm_ctipocontenedor_listar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\tipo contenedor\\wfrm_ctipocontenedor_listar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\tipo contenedor\\wfrm_ctipocontenedor_listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\tipo contenedor\\wfrm_ctipocontenedor_listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\movimientos\\wfrm_movimientos_modificar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\movimientos\\wfrm_movimientos_modificar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\movimientos\\wfrm_movimientos_listado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\movimientos\\wfrm_movimientos_listado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\movimientos\\wfrm_movimientos_listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\movimientos\\wfrm_movimientos_listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales bodega ccontenedor\\wfrm_material_bodega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales bodega ccontenedor\\wfrm_material_bodega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales bodega ccontenedor\\wfrm_material_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales bodega ccontenedor\\wfrm_material_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales\\wfrm_modificarmaterial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_modificarmaterial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales\\wfrm_listarmateriales.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_listarmateriales.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales\\wfrm_listarmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_listarmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales\\wfrm_ingresarmateriales.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_ingresarmateriales.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\materiales\\wfrm_ingresarmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\materiales\\wfrm_ingresarmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_modificar_bodega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_modificar_bodega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_modificar_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_modificar_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_modificar_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_modificar_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\ctipocontenedor_respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\ctipocontenedor_respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\crespuestalistamaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\crespuestalistamaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\crespuestaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\crespuestaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\crespuestaccontenedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\crespuestaccontenedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\crespuestabodegalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\crespuestabodegalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\crespuestabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\crespuestabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\crespuestabodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\crespuestabodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\crespuesta_ctipodematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\crespuesta_ctipodematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases respuesta\\crespuesta_movimientos_lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases respuesta\\crespuesta_movimientos_lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases\\ctipodematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases\\ctipodematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases\\cerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases\\cerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases\\tipo contenedor\\ctipocontenedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases\\tipo contenedor\\ctipocontenedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases\\movimientos\\cmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases\\movimientos\\cmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases\\material\\cmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases\\material\\cmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases\\bodega\\cbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases\\bodega\\cbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\clases\\contenedor\\ccontenedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:clases\\contenedor\\ccontenedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_listar_bodegas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_listar_bodegas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_listar_bodegas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_listar_bodegas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_ingresar_bodega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_ingresar_bodega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\bodega\\wfrm_ingresar_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\bodega\\wfrm_ingresar_bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\forms\\menu principal\\menu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{874299E0-A6B8-4351-9236-FC35F1984794}|Gestion_Bodega.csproj|solutionrelative:forms\\menu principal\\menu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\CInterfaz.cs",
+              "RelativeDocumentMoniker": "Clases\\CInterfaz.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\CInterfaz.cs",
+              "RelativeToolTip": "Clases\\CInterfaz.cs",
+              "ViewState": "AQIAAIECAAAAAAAAAAAwwI8CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:31:35.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "wfrm_ingresar_bodega.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_ingresar_bodega.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_ingresar_bodega.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_ingresar_bodega.cs",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_ingresar_bodega.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:29:03.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wfrm_Listar_bodegas.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_Listar_bodegas.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_Listar_bodegas.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_Listar_bodegas.cs",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_Listar_bodegas.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAwwGMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:33:57.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wfrm_IngresarMateriales.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_IngresarMateriales.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_IngresarMateriales.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_IngresarMateriales.cs",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_IngresarMateriales.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowEoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:08:23.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wfrm_ListarMateriales.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ListarMateriales.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_ListarMateriales.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ListarMateriales.cs",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_ListarMateriales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:48:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wfrm_movimientos_modificar.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_movimientos_modificar.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\wfrm_movimientos_modificar.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_movimientos_modificar.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\wfrm_movimientos_modificar.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:51:48.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "wfrm_movimientos_modificar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_movimientos_modificar.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\wfrm_movimientos_modificar.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_movimientos_modificar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Movimientos\\wfrm_movimientos_modificar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:51:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "wfrm_Movimientos_Listado.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_Movimientos_Listado.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\wfrm_Movimientos_Listado.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_Movimientos_Listado.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\wfrm_Movimientos_Listado.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:49:59.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu Principal.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Menu Principal\\Menu Principal.cs",
+              "RelativeDocumentMoniker": "Forms\\Menu Principal\\Menu Principal.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Menu Principal\\Menu Principal.cs",
+              "RelativeToolTip": "Forms\\Menu Principal\\Menu Principal.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAADwv54AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:23:32.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "wfrm_ModificarMaterial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ModificarMaterial.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_ModificarMaterial.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ModificarMaterial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_ModificarMaterial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:50:26.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "wfrm_ModificarMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ModificarMaterial.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_ModificarMaterial.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ModificarMaterial.cs",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_ModificarMaterial.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:51:03.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "wfrm_CTipoContenedor_Listar.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.cs",
+              "RelativeDocumentMoniker": "Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.cs",
+              "RelativeToolTip": "Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:55:13.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "wfrm_Material_Bodega.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.cs",
+              "RelativeToolTip": "Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA5wF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:45:56.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "wfrm_CTipoContenedor_Listar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.Designer.cs",
+              "RelativeToolTip": "Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.Designer.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAKUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:49:32.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "wfrm_CTipoContenedor_Listar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.cs",
+              "RelativeDocumentMoniker": "Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Tipo Contenedor\\wfrm_CTipoContenedor_Listar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:55:08.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wfrm_movimientos_modificar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_movimientos_modificar.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\wfrm_movimientos_modificar.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_movimientos_modificar.Designer.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\wfrm_movimientos_modificar.Designer.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAQwBgBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:55:30.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "wfrm_Movimientos_Listado.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_Movimientos_Listado.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\wfrm_Movimientos_Listado.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_Movimientos_Listado.Designer.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\wfrm_Movimientos_Listado.Designer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:51:01.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "wfrm_Movimientos_Listado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_Movimientos_Listado.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\wfrm_Movimientos_Listado.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Movimientos\\wfrm_Movimientos_Listado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Movimientos\\wfrm_Movimientos_Listado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:49:46.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "wfrm_Material_Bodega.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.Designer.cs",
+              "RelativeToolTip": "Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:46:20.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "wfrm_Material_Bodega.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Materiales Bodega CContenedor\\wfrm_Material_Bodega.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:23:59.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "wfrm_ModificarMaterial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ModificarMaterial.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_ModificarMaterial.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ModificarMaterial.Designer.cs",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_ModificarMaterial.Designer.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAAADEBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:52:04.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "wfrm_ListarMateriales.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ListarMateriales.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_ListarMateriales.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ListarMateriales.Designer.cs",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_ListarMateriales.Designer.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAAQwEYBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:48:57.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "wfrm_ListarMateriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ListarMateriales.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_ListarMateriales.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_ListarMateriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_ListarMateriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:17:28.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "wfrm_IngresarMateriales.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_IngresarMateriales.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_IngresarMateriales.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_IngresarMateriales.Designer.cs",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_IngresarMateriales.Designer.cs",
+              "ViewState": "AQIAAGYBAAAAAAAAAAAQwFYBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:09:55.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "wfrm_IngresarMateriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_IngresarMateriales.cs",
+              "RelativeDocumentMoniker": "Forms\\Materiales\\wfrm_IngresarMateriales.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Materiales\\wfrm_IngresarMateriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Materiales\\wfrm_IngresarMateriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:07:16.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "wfrm_modificar_bodega.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_modificar_bodega.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_modificar_bodega.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_modificar_bodega.cs",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_modificar_bodega.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:13:47.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "wfrm_modificar_bodega.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_modificar_bodega.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_modificar_bodega.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_modificar_bodega.Designer.cs",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_modificar_bodega.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwGAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:13:41.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "wfrm_modificar_bodega.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_modificar_bodega.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_modificar_bodega.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_modificar_bodega.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_modificar_bodega.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:13:36.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CTipoContenedor_respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CTipoContenedor_respuesta.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CTipoContenedor_respuesta.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CTipoContenedor_respuesta.cs",
+              "RelativeToolTip": "Clases Respuesta\\CTipoContenedor_respuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:12:40.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CRespuestaListaMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaListaMaterial.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CRespuestaListaMaterial.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaListaMaterial.cs",
+              "RelativeToolTip": "Clases Respuesta\\CRespuestaListaMaterial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:11:59.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CRespuestaInt.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaInt.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CRespuestaInt.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaInt.cs",
+              "RelativeToolTip": "Clases Respuesta\\CRespuestaInt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:11:24.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CRespuestaCContenedor.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaCContenedor.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CRespuestaCContenedor.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaCContenedor.cs",
+              "RelativeToolTip": "Clases Respuesta\\CRespuestaCContenedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:10:34.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CRespuestaBodegaLista.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaBodegaLista.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CRespuestaBodegaLista.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaBodegaLista.cs",
+              "RelativeToolTip": "Clases Respuesta\\CRespuestaBodegaLista.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:09:39.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CRespuestaBodega.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaBodega.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CRespuestaBodega.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaBodega.cs",
+              "RelativeToolTip": "Clases Respuesta\\CRespuestaBodega.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:04:35.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CRespuestaBase.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaBase.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CRespuestaBase.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuestaBase.cs",
+              "RelativeToolTip": "Clases Respuesta\\CRespuestaBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:03:42.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CRespuesta_Movimientos_Lista.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuesta_Movimientos_Lista.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CRespuesta_Movimientos_Lista.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuesta_Movimientos_Lista.cs",
+              "RelativeToolTip": "Clases Respuesta\\CRespuesta_Movimientos_Lista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:03:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CRespuesta_CTipoDeMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuesta_CTipoDeMaterial.cs",
+              "RelativeDocumentMoniker": "Clases Respuesta\\CRespuesta_CTipoDeMaterial.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases Respuesta\\CRespuesta_CTipoDeMaterial.cs",
+              "RelativeToolTip": "Clases Respuesta\\CRespuesta_CTipoDeMaterial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:01:54.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CTipoContenedor.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Tipo Contenedor\\CTipoContenedor.cs",
+              "RelativeDocumentMoniker": "Clases\\Tipo Contenedor\\CTipoContenedor.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Tipo Contenedor\\CTipoContenedor.cs",
+              "RelativeToolTip": "Clases\\Tipo Contenedor\\CTipoContenedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:35:43.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CMovimientos.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Movimientos\\CMovimientos.cs",
+              "RelativeDocumentMoniker": "Clases\\Movimientos\\CMovimientos.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Movimientos\\CMovimientos.cs",
+              "RelativeToolTip": "Clases\\Movimientos\\CMovimientos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:34:48.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Material\\CMaterial.cs",
+              "RelativeDocumentMoniker": "Clases\\Material\\CMaterial.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Material\\CMaterial.cs",
+              "RelativeToolTip": "Clases\\Material\\CMaterial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:34:07.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CBodega.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Bodega\\CBodega.cs",
+              "RelativeDocumentMoniker": "Clases\\Bodega\\CBodega.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Bodega\\CBodega.cs",
+              "RelativeToolTip": "Clases\\Bodega\\CBodega.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:32:31.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CError.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\CError.cs",
+              "RelativeDocumentMoniker": "Clases\\CError.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\CError.cs",
+              "RelativeToolTip": "Clases\\CError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:28:38.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CTipoDeMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\CTipoDeMaterial.cs",
+              "RelativeDocumentMoniker": "Clases\\CTipoDeMaterial.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\CTipoDeMaterial.cs",
+              "RelativeToolTip": "Clases\\CTipoDeMaterial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:31:57.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CContenedor.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Contenedor\\CContenedor.cs",
+              "RelativeDocumentMoniker": "Clases\\Contenedor\\CContenedor.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Clases\\Contenedor\\CContenedor.cs",
+              "RelativeToolTip": "Clases\\Contenedor\\CContenedor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:33:17.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "wfrm_Listar_bodegas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_Listar_bodegas.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_Listar_bodegas.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_Listar_bodegas.Designer.cs",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_Listar_bodegas.Designer.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAuwNAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:02:40.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "wfrm_Listar_bodegas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_Listar_bodegas.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_Listar_bodegas.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_Listar_bodegas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_Listar_bodegas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:33:48.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "wfrm_ingresar_bodega.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_ingresar_bodega.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_ingresar_bodega.Designer.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_ingresar_bodega.Designer.cs",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_ingresar_bodega.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:30:34.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "wfrm_ingresar_bodega.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_ingresar_bodega.cs",
+              "RelativeDocumentMoniker": "Forms\\Bodega\\wfrm_ingresar_bodega.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Bodega\\wfrm_ingresar_bodega.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Bodega\\wfrm_ingresar_bodega.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:28:42.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Menu Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Menu Principal\\Menu Principal.cs",
+              "RelativeDocumentMoniker": "Forms\\Menu Principal\\Menu Principal.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Forms\\Menu Principal\\Menu Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Menu Principal\\Menu Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:23:11.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

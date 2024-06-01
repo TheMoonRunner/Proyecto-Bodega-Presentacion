@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rt3VOsvCtNRJp91vYtMQ9R+ubI0DmdU9NCEWgzF34MWKKsK1/i8cmKokWWMkDasbkoNjB5LnCIk700aTHVv5LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chico\\source\\repos\\Gestion_Bodega\\Gestion_Bodega.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chico\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
